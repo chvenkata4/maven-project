@@ -2,5 +2,5 @@
  * This is the package name.
  */
 
-package com.example;
+package com.example
 
